@@ -1,0 +1,15 @@
+# macOS metadata
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime output of simulate_drone.py
+watch_folder/*
+!watch_folder/.gitkeep
+
+# Local test artifacts
+_test_expected.json

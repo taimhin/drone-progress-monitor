@@ -2,6 +2,8 @@
 
 把原本的 Streamlit + OpenCV 示範（`app.py`）改寫成**純前端靜態網站**。不需要 Python 伺服器、不需要安裝套件，直接把資料夾放上 GitHub Pages 就能展示。
 
+🔗 **線上示範：<https://taimhin.github.io/drone-progress-monitor/>**
+
 - 影像只在瀏覽器內用 Canvas 取樣分析，**不會上傳到任何伺服器**。
 - 內建 99 張 `Day01–Day33 × AM / Noon / Night` 範例照片。
 - 分析結果已與 Python 版逐張比對，Planned %、Actual %、顏色判定與延誤判定一致。

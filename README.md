@@ -4,6 +4,8 @@
 
 🔗 **線上示範：<https://taimhin.github.io/drone-progress-monitor/>**
 
+[![無人機地盤進度監控 PoC](preview.png)](https://taimhin.github.io/drone-progress-monitor/)
+
 - 影像只在瀏覽器內用 Canvas 取樣分析，**不會上傳到任何伺服器**。
 - 內建 99 張 `Day01–Day33 × AM / Noon / Night` 範例照片。
 - 分析結果已與 Python 版逐張比對，Planned %、Actual %、顏色判定與延誤判定一致。
